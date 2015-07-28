@@ -9,7 +9,7 @@
 *.iml
 
 # Maven
-flamingo2-*/target/
+scalaimpatient/out/
 
 # Package Files #
 *.war
@@ -19,11 +19,6 @@ flamingo2-*/target/
 hs_err_pid*
 
 .DS_Store
-
-flamingo2-web/src/main/webapp/resources/ext/build/.sass-cache/
-flamingo2-web/src/main/webapp/resources/build/.sass-cache/
-flamingo2-web/src/main/webapp/resources/build/temp/production/Flamingo2/slicer-temp/.sass-cache/
-flamingo2-web/src/main/webapp/resources/ext/build/temp/flamingo2-theme/slicer-temp/.sass-cache/
 
 ?APP_CONFIG?
 _mac/
